@@ -2,6 +2,6 @@ package org.example.sweet.chocolate;
 
 public class MilkyBar extends Chocolate {
     public MilkyBar() {
-        super(10, "MilkyBar", 10);
+        super(15, "MilkyBar", 12.5);
     }
 }
